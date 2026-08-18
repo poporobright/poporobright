@@ -3,7 +3,7 @@
 
 < align="center"> [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=poporobright)](https://github.com/stats-organization/github-stats-extended) </div>
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=poporobright)](https://github.com/stats-organization/github-stats-extended">
+  <a align="center" href="https://github-stats-extended.vercel.app/api?username=poporobright)](https://github.com/stats-organization/github-stats-extended">
     
   </a>
 </p>
