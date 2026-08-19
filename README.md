@@ -1,13 +1,13 @@
 <img width="1700" height="460" align="center" alt="github-header-banner" src="https://github.com/user-attachments/assets/4795aded-988c-4f36-ba50-60a9402a790e" />
 
 <div>
-  
+  <br>
 </div>
 
 <div align="center">
   <h3> Poporobright's Main Repo </h3>
 </div>
-
+<br>
 <div>
 
 <p align="left">
@@ -15,7 +15,7 @@
 </p>
 
 <div>
-  
+  <br>
 </div>
 
 <p align="left">
@@ -24,7 +24,7 @@
 </p>
 
 <div>
-  
+  <br>
 </div>
 
 <p align="left">
