@@ -27,6 +27,19 @@
   <br>
 </div>
 
+<div>
+  <h3>Current Projects :: </h3>
+  </div>
+  <div>
+    <ul>
+    <li> <a href="https://poporobright.github.io/terminal-cheatsheet/">~/bash_cheatsheet</li>
+  </ul></div>
+  
+  
+
+
+<br>
+
 <p align="left">
   You can connect with via email at: poporobright.git@gmail.com
 </p>
